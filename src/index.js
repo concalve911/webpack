@@ -1,7 +1,7 @@
 "use strict";
 
 import "./index.html";
-import "./index.scss";
+import "./style/style.scss";
 
 const form = document.querySelector(".todo__form");
 const todoList = document.querySelector(".todo__list");
